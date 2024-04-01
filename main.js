@@ -169,3 +169,8 @@ function increasePekAge (personCat) {
     console.log ('start')
 
     setTimeout (printMyName, 1000)
+
+const arr = [1, '2', true]
+arr.forEach(e => {
+   console.log(e);
+})
